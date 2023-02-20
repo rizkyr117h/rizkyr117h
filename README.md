@@ -1,9 +1,6 @@
-### Hi there 👋 my name is Rizky Ramdhan Nugraga but you can call me iki😁.
+### Hi there 👋 my name is Rizky Ramdhan Nugraha but you can call me iki😁.
 
 I'm a a undergraduate Software Engineering Student.
-
-
-Here are some ideas to get you started:
 
 - 🌱 I’m currently learning at University and Bangkit Academy
 - 💬 Ask me about Anything 😄
