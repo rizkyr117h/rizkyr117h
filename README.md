@@ -18,5 +18,5 @@ Here are some ideas to get you started:
 </p>
 
 - 📫 How to reach me: 
-- [Linkedin](https://www.linkedin.com/in/gilang-adhan/).
+- [Linkedin](https://www.linkedin.com/in/rizky-211101/).
 - [Instagran](https://www.instagram.com/rizkyr117h/).
