@@ -5,7 +5,6 @@ I'm a a undergraduate Software Engineering Student.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
 - 🌱 I’m currently learning at University and Bangkit Academy
 - 💬 Ask me about Anything 😄
 
@@ -19,4 +18,5 @@ Here are some ideas to get you started:
 </p>
 
 - 📫 How to reach me: 
-- [Linkedin](https://www.linkedin.com/in/gilang-adhan/)ku ya.
+- [Linkedin](https://www.linkedin.com/in/gilang-adhan/).
+- [Instagran](https://www.instagram.com/rizkyr117h/).
