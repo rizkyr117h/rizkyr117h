@@ -1,11 +1,12 @@
 ### Hi there 👋 my name is Rizky Ramdhan Nugraha but you can call me iki😁.
 
-I'm a a undergraduate Software Engineering Student.
+I'm a undergraduate Software Engineering Student.
 
-- 🌱 I’m currently learning at University and Bangkit Academy
+- 🌱 I’m currently learning at University
+-  
 - 💬 Ask me about Anything 😄
 
-- ⚡ Fun fact: Love To Hangout and Travel😁
+- ⚡ Have passion for being a DevOps Engineer and Software Architecture.
 
 <p align="left">
 <a href="https://github.com/gilangadhan">
